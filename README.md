@@ -30,6 +30,11 @@ ___
 
 ## Steps
 
+### Download model
+    [Download model ggml-gpt4all-j-v1.3-groovy.bin](https://huggingface.co/qm9/ggml-gpt4all-j-v1.3-groovy.bin) 
+
+create a `models` folder in the project root, and place the downloaded model in this folder
+
 ### Copy repository
     git clone https://github.com/ssshipilo/gpt4_private
 
